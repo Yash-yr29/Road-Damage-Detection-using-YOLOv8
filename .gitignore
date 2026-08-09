@@ -12,8 +12,6 @@ venv/
 # YOLO / training outputs
 runs/
 weights/
-*.pt
-*.pth
 *.onnx
 
 # Dataset
