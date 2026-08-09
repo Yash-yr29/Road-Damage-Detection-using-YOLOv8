@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# YOLO / training outputs
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# Dataset
+dataset/
+datasets/
+
+# Google Colab
+/content/
+
+# OS
+.DS_Store
+Thumbs.db
