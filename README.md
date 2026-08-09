@@ -121,8 +121,6 @@ These results demonstrate that the fine-tuned YOLO model is capable of detecting
 - How to save and manage **model checkpoints** during training.
 - How to evaluate an object-detection model using **Precision, Recall, F1-Score, mAP@50, and mAP@50–95**.
 - How to handle **interrupted training** and continue experiments using saved model weights.
-- How to analyse **training and validation performance**.
-- How to deploy a trained model using **Streamlit**.
 
 ---
 
